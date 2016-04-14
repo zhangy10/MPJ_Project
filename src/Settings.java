@@ -18,7 +18,9 @@ public class Settings {
 
     // The mode for reading a file.
     public static final String READ_MODE = "r";
-    public static final String CSV_PATH = "/data/projects/COMP90024/twitter.csv";
+    public static final String CSV_PATH = "/Users/zhangyu/Desktop/Twitter Data/miniTwitter_5744.csv";
+    // public static final String CSV_PATH =
+    // "/data/projects/COMP90024/twitter.csv";
     public static final String FILE_DECODE = "UTF-8";
 
     public static final int TOP_NUM = 10;
