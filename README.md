@@ -1,4 +1,4 @@
-# MPJ-Project
+# MPJ Project
 This project is aiming to experience how to use the ideas of the high performance computing platform (Spartan) to solve huge problems based on using Message-Passing Interface meanwhile finding and analyzing the
 difference between different shell configurations.
   
