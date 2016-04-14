@@ -14,7 +14,7 @@ import java.util.UUID;
  * immutable object including a hash-map to store the occurrence of each word
  * which will be searched in the given Twitter data-set.
  * 
- * @author Yu Zhang 671205
+ * @author Yu Zhang
  * 
  *         Apr 2, 2016
  *

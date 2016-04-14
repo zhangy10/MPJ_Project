@@ -8,7 +8,7 @@ import mpi.MPI;
  * including splitting file reading for large files in multi-thread environment,
  * sending and receiving message based on the MPI capacities.
  * 
- * @author Yu Zhang 671205
+ * @author Yu Zhang 
  * 
  *         Apr 2, 2016
  *

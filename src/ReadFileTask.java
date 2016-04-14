@@ -9,7 +9,7 @@ import java.io.UnsupportedEncodingException;
  * The reading file task is designed to process a range of the file (from the
  * start position to the total length) in the multi-thread environment.
  * 
- * @author Yu Zhang 671205
+ * @author Yu Zhang 
  * 
  *         Apr 2, 2016
  *

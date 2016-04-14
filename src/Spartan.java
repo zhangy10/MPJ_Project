@@ -12,7 +12,7 @@ import mpi.MPI;
  * setting up three different Spartan scripts with different nodes and different
  * cores to compare the different execution times.
  * 
- * @author Yu Zhang 671205
+ * @author Yu Zhang 
  * 
  *         Apr 2, 2016
  *

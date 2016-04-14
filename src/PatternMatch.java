@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
  * Designed for String Pattern Matching to count the occurrence of the target
  * string in the given text file.
  * 
- * @author Yu Zhang 671205
+ * @author Yu Zhang 
  * 
  *         Apr 2, 2016
  *

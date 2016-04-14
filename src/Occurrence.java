@@ -5,7 +5,7 @@ import java.io.Serializable;
  * occurrence. It can be represented to 3 different types, the given term, the
  * Twitter and the topics by using the "tag" value.
  * 
- * @author Yu Zhang 671205
+ * @author Yu Zhang 
  * 
  *         Apr 2, 2016
  *

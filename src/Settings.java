@@ -3,7 +3,7 @@
  * All of the configuration information will be placed in this file for
  * convenient update and management.
  * 
- * @author Yu Zhang 671205
+ * @author Yu Zhang
  * 
  *         Apr 2, 2016
  *
@@ -18,9 +18,9 @@ public class Settings {
 
     // The mode for reading a file.
     public static final String READ_MODE = "r";
-    public static final String CSV_PATH = "/Users/zhangyu/Desktop/Twitter Data/miniTwitter_5744.csv";
-    // public static final String CSV_PATH =
-    // "/data/projects/COMP90024/twitter.csv";
+    // public static final String CSV_PATH = "/Users/zhangyu/Desktop/Twitter
+    // Data/miniTwitter_5744.csv";
+    public static final String CSV_PATH = "/data/projects/COMP90024/twitter.csv";
     public static final String FILE_DECODE = "UTF-8";
 
     public static final int TOP_NUM = 10;
